@@ -1,3 +1,9 @@
+/* Polyline Algorithm implementation 
+* created by BRIJESH CHAUHAN : brijesh@brijeshradhika.com
+* version 1.0
+* created Date : 04 Aug 2011
+* Notes - This is still in DEVELOPMENT and broken as of NOW.
+*/
 import com.allaire.cfx.* ;
 public class polyline implements CustomTag {
         public void processRequest( Request request, Response response ) 
